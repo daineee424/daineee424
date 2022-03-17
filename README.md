@@ -3,8 +3,8 @@
 
 
   
-  <a href="https://github.com/daineee424"><img align="center" style="height:100%" src="https://github-readme-stats.vercel.app/api?username=daineee424&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="daineee424's github stats" /></a>
-  <a href="https://github.com/daineee424"><img align="center" style="height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daineee424&layout=compact&theme=vue-dark&hide_border=true" /></a> 
+  <a href="https://github.com/daineee424"><img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=daineee424&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="daineee424's github stats" /></a>
+  <a href="https://github.com/daineee424"><img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daineee424&layout=compact&theme=vue-dark&hide_border=true" /></a> 
 </p>
   
   <br>
