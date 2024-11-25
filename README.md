@@ -2,10 +2,7 @@
 <img align="center" style="width=100%" src="https://capsule-render.vercel.app/api?type=rect&color=b1d3c5&section=header&text=Hello,%20I'm%20Da-In%20Chung&fontSize=50&fontColor=ffffff" />
 
 
-  
-  <a href="https://github.com/daineee424"><img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=daineee424&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="daineee424's github stats" /></a>
-  <a href="https://github.com/daineee424"><img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daineee424&layout=compact&theme=vue-dark&hide_border=true" /></a> 
-</p>
+
   
   <br>
   <br>
